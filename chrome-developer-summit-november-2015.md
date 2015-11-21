@@ -14,14 +14,14 @@ layout: page
 
 - [PerfJankie](https://github.com/axemclion/perfjankie) is a tool to monitor smoothness and responsiveness of websites and Cordova/Hybrid apps over time
 - [HTTPS testing](https://badssl.com/) - 
-- [Report URI](report-uri.io), can be used as a target for mixed content and PKP warnings
+- [Report URI](http://report-uri.io), can be used as a target for mixed content and PKP warnings
 - [sw-precache](https://github.com/GoogleChrome/sw-precache) is a code generator for SWs dedicated to pre-caching, e.g., assets
 - [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) is a generic toolbox for SWs
 - [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/?hl=en)
 - [Vannila JS Application Shell](https://github.com/GoogleChrome/application-shell)
 - [Eddystones](https://developers.google.com/beacons/?hl=en)
 - Audit tab in the Dev Tools – Holy Strava!
-- [FLIP animations](bit.ly/fli-anims) – guidelines for creating smooth animations on web pages
+- [FLIP animations](http://bit.ly/fli-anims) – guidelines for creating smooth animations on web pages
 - [BigRig](https://github.com/GoogleChrome/big-rig) – Frontend and backend for storing and analyzing recorded Chrome traces / timelines over time
 - [Polyfill CDN](https://cdn.polyfill.io/v2/docs/) – On demand polyfills
 - [d8](http://www.sandeepdatta.com/2011/10/using-v8-javascript-shell-d8.html) – Implements a JS Console on the CLI and more
