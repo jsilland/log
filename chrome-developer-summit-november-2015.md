@@ -130,7 +130,7 @@ layout: page
 	  - Available on canary
 - Getting to green
   - Mixed content warning
-  - Content-Security-Policy header points to a report URI which will be poinged when users get mixed content [Report URI](report-uri.io)
+  - Content-Security-Policy header points to a report URI which will be poinged when users get mixed content [Report URI](http://report-uri.io)
   - Content-Security-Policy: upgrade insecure requests (for subresources)
 - Beyond green
   - Mark session cookies as secure
@@ -290,7 +290,7 @@ toolbox.router.get(
 - ARIA let specify role, state, values
 - Accessibility pane in the Dev Tools
 
-## Paul Baukaus – DevTools in 2015: Authoring to the max
+## Paul Bakaus – DevTools in 2015: Authoring to the max
 
 - People use Dev Tools to build websites — designers in particular
 - It makes a lot of sense
